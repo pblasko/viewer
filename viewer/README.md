@@ -1,4 +1,4 @@
-# Quasar App (new-project)
+# Quasar App (viewer)
 
 A Quasar Project
 
